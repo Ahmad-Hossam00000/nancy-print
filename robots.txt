@@ -1,0 +1,3 @@
+# NOTE: Basic crawl policy for the public Nancy Print website.
+User-agent: *
+Allow: /
